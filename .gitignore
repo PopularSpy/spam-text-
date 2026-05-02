@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files (generated — not source-controlled)
+models/*.pkl
+
+# Data files (download separately)
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
