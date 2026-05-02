@@ -1,11 +1,5 @@
 # Real-Time SMS Spam Detection Application
 
-**Group Members**  
-- Abdul Rafay (B24S0348AI074)  
-- Farooq Awan (B24S0960AI065)  
-
-**Instructor:** Mr Waqas Yousaf — Machine Learning Lab  
-
 ---
 
 ## Project Overview
