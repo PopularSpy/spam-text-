@@ -67,6 +67,7 @@ The file has two relevant columns:
 ```python
 import nltk
 nltk.download('punkt')
+nltk.download('punkt_tab')  # required by newer NLTK tokenizers
 nltk.download('stopwords')
 ```
 
@@ -210,6 +211,8 @@ See `app/app.py` for the full skeleton. The app:
 
 ## Run Instructions
 
+Run all commands from the repository root so relative paths like `data/` and `models/` resolve correctly.
+
 ### 1. Install Dependencies
 
 ```bash
@@ -221,6 +224,7 @@ pip install -r requirements.txt
 ```python
 import nltk
 nltk.download('punkt')
+nltk.download('punkt_tab')  # required by newer NLTK tokenizers
 nltk.download('stopwords')
 ```
 
